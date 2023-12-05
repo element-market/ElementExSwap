@@ -1,62 +1,58 @@
-<p align="center">
-  <img src="https://www.element.market/build/logo-header-268a92cd.svg" height="60"/>
-</p>
 
-
-- Ethereum
+ 
+- ElementExSwapV2
   <table>
   <tr>
-  <th>Contract Name</th>
+  <th>Network</th>
   <th>Contract Address</th>
   </tr>
 
-  <tr><td>ElementExSwapV2</td><td>
+  <tr><td>Ethereum Mainnet</td><td>
     <a href="https://etherscan.io/address/0xb4E7B8946fA2b35912Cc0581772cCCd69A33000c#code">0xb4E7B8946fA2b35912Cc0581772cCCd69A33000c</a>
   </td></tr>
 
-  <tr><td>MasterFeature</td><td>
-  <a href="https://etherscan.io/address/0x27A2fFa2717cd27A1Ceb1292Db360deaB48b9b7C#code">0x27A2fFa2717cd27A1Ceb1292Db360deaB48b9b7C</a>
+  <tr><td>BNB Smart Chain</td><td>
+    <a href="https://bscscan.com/address/0x46A03313FA8eF8ac8798f502bB38d35E5e1acbfC#code">0x46A03313FA8eF8ac8798f502bB38d35E5e1acbfC</a>
   </td></tr>
 
-  <tr><td>SimulatorFeature</td><td>
-  <a href="https://etherscan.io/address/0x3c19784F5247ca471E27eA1C604b48D266eb000C#code">0x3c19784F5247ca471E27eA1C604b48D266eb000C</a>
+  <tr><td>Polygon Mainnet</td><td>
+    <a href="https://polygonscan.com/address/0x25956Fd0A5FE281D921b1bB3499fc8D5EFea6201#code">0x25956Fd0A5FE281D921b1bB3499fc8D5EFea6201</a>
   </td></tr>
 
-  <tr><td>LooksRareMarketProxy</td><td>
-  <a href="https://etherscan.io/address/0xcAF3836cd44336d4C6DdC29dfBc81a4063f45eD6#code">0xcAF3836cd44336d4C6DdC29dfBc81a4063f45eD6</a>
+  <tr><td>zkSync Era Mainnet</td><td>
+    <a href="https://explorer.zksync.io/address/0x7868A55B638eD298370c16F83fA32b26664726ab#contract">0x7868A55B638eD298370c16F83fA32b26664726ab</a>
   </td></tr>
 
-  <tr><td>UniSwapProxy</td><td>
-  <a href="https://etherscan.io/address/0x6bD7f97e6883962278a191DBbb915A82612f353F#code">0x6bD7f97e6883962278a191DBbb915A82612f353F</a>
+  <tr><td>Linea Mainnet</td><td>
+    <a href="https://lineascan.build/address/0x42c759a719c228050901299b88fd316c3a050617#code">0x42c759a719c228050901299b88fd316c3a050617</a>
   </td></tr>
 
-  </table>
-
-- Goerli
-  <table>
-  <tr>
-  <th>Contract Name</th>
-  <th>Contract Address</th>
-  </tr>
-
-  <tr><td>ElementExSwapV2</td><td>
-    <a href="https://goerli.etherscan.io/address/0xFb099cE799d8eA457CD7A4401d621C00d87C87fA#code">0xFb099cE799d8eA457CD7A4401d621C00d87C87fA</a>
+  <tr><td>Arbitrum One</td><td>
+    <a href="https://arbiscan.io/address/0x1e0E556b7f310c320bA22b5dEC0A0755C1c9854b#code">0x1e0E556b7f310c320bA22b5dEC0A0755C1c9854b</a>
   </td></tr>
 
-  <tr><td>MasterFeature</td><td>
-  <a href="https://goerli.etherscan.io/address/0x254d322468f649F0eCeF12B0b72E64994786f915#code">0x254d322468f649F0eCeF12B0b72E64994786f915</a>
+  <tr><td>Base Mainnet</td><td>
+    <a href="https://basescan.org/address/0x66950320086664429C69735318724Ae24ec0D835#code">0x66950320086664429C69735318724Ae24ec0D835</a>
   </td></tr>
 
-  <tr><td>SimulatorFeature</td><td>
-  <a href="https://goerli.etherscan.io/address/0x77962D7a1a31519E4d759DFfa6d60519e7b62e15#code">0x77962D7a1a31519E4d759DFfa6d60519e7b62e15</a>
+  <tr><td>Optimism Mainnet</td><td>
+    <a href="https://optimistic.etherscan.io/address/0xc9605A76B0370e148B4a510757685949F13248C7#code">0xc9605A76B0370e148B4a510757685949F13248C7</a>
   </td></tr>
 
-  <tr><td>LooksRareMarketProxy</td><td>
-  <a href="https://goerli.etherscan.io/address/0xcCcd0afEAfB6625cd655Cf8f39B02c85947dB6f6#code">0xcCcd0afEAfB6625cd655Cf8f39B02c85947dB6f6</a>
+  <tr><td>opBNB Mainnet</td><td>
+    <a href="https://opbnbscan.com/address/0x8629E04a83902721FBD816fE9d41FD2053DAC79b?tab=Contract">0x8629E04a83902721FBD816fE9d41FD2053DAC79b</a>
   </td></tr>
 
-  <tr><td>UniSwapProxy</td><td>
-  <a href="https://goerli.etherscan.io/address/0xc522dD737BB4e1C9b83B2891c55899F3Da5Af5a8#code">0xc522dD737BB4e1C9b83B2891c55899F3Da5Af5a8</a>
+  <tr><td>Manta Pacific</td><td>
+    <a href="https://pacific-explorer.manta.network/address/0xBcFa22a36E555c507092FF16c1af4cB74B8514C8/contracts">0xBcFa22a36E555c507092FF16c1af4cB74B8514C8</a>
   </td></tr>
 
+  <tr><td>Scroll Mainnet</td><td>
+    <a href="https://scrollscan.com/address/0x217efe077801387d125fE98E1b61CDDA4D1364d2#code">0x217efe077801387d125fE98E1b61CDDA4D1364d2</a>
+  </td></tr>
+
+  <tr><td>Avalanche Mainnet</td><td>
+    <a href="https://snowtrace.io/address/0x917ef4F231Cbd0972A10eC3453F40762C488e6fa#code">0x917ef4F231Cbd0972A10eC3453F40762C488e6fa</a>
+  </td></tr>
+  
   </table>
