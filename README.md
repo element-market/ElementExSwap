@@ -52,7 +52,7 @@
   </td></tr>
   
   <tr><td>Mantle</td><td>
-    <a href="https://scrollscan.com/address/0x9f47921D360aeE0651A4F1ED2c4892B4923F9E52#code">0x9f47921D360aeE0651A4F1ED2c4892B4923F9E52</a>
+    <a href="https://explorer.mantle.xyz/address/0x9f47921D360aeE0651A4F1ED2c4892B4923F9E52/contracts#address-tabs">0x9f47921D360aeE0651A4F1ED2c4892B4923F9E52</a>
   </td></tr>
 
   <tr><td>Avalanche Mainnet</td><td>
