@@ -50,6 +50,10 @@
   <tr><td>Scroll Mainnet</td><td>
     <a href="https://scrollscan.com/address/0x217efe077801387d125fE98E1b61CDDA4D1364d2#code">0x217efe077801387d125fE98E1b61CDDA4D1364d2</a>
   </td></tr>
+  
+  <tr><td>Mantle</td><td>
+    <a href="https://scrollscan.com/address/0x9f47921D360aeE0651A4F1ED2c4892B4923F9E52#code">0x9f47921D360aeE0651A4F1ED2c4892B4923F9E52</a>
+  </td></tr>
 
   <tr><td>Avalanche Mainnet</td><td>
     <a href="https://snowtrace.io/address/0x917ef4F231Cbd0972A10eC3453F40762C488e6fa#code">0x917ef4F231Cbd0972A10eC3453F40762C488e6fa</a>
